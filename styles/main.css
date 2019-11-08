@@ -398,6 +398,11 @@ body {
     font-size: 32px;
 }
 
+.squareHeader2 {
+    font-family: 'Fjalla', sans-serif;
+    font-size: 24px;
+}
+
 .squareParagraph {
     font-family: 'Rubik', sans-serif;
     font-size: 14px;
